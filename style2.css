@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css?family=RobotoSlab');
+
+body {
+  font-family: 'Roboto Slab', sans-serif;
+  color: #222;
+  font-size: 14px;
+  padding: 10px;
+  border: 10px;
+  margin-bottom: 10px;
+  max-width: 580px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.title_1 {
+  font-size: 64px;
+  font-weight: normal;
+  text-align: right;
+  color: #4a4a4a;
+}
+
+.title_2 {
+  font-size: 36px;
+  font-weight: bold;
+  line-height: 0.83;
+  text-align: center;
+  color: #4a4a4a;
+}
+
+.subtitle_2 {
+  font-size: 20px;
+  font-weight: bold;
+  line-height: 1.5;
+  color: #4a4a4a;
+  background-color: #ffb6c1;
+}
+
+.lead_1 {
+  font-size: 36px;
+  font-weight: bold;
+  color: #4a4a4a;
+}
+
+.yellow_box {
+  width: 276px;
+  height: 242px;
+  background-color: #f8e71c;
+}
+
+.link {
+  font-size: 14px;
+  font-weight: normal;
+  line-height: 1.5;
+  color: #4a90e2;
+  text-decoration: none;
+}
+
+.underlined_link {
+}
+
+.content {
+  font-size: 18px;
+  font-weight: normal;
+  line-height: 1.39;
+  color: #4a4a4a;
+}
